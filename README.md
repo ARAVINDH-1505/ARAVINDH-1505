@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 HEY I'M ARAVINDH:
 I'm a machine learning engineer in the making, living on Python, debugging my life one line at a time. <br>I build cool stuff with code by describing the entities as classified one or continious one!! <br>I love blending algorithms + curiosity to solve real-world problems and I’m always experimenting with something new. <br>🔥If my repo looks like a lab, that’s because it is.<br>🤖 Teaching machines how to think (and sometimes beat me at my own games)<br>⚡ Fun fact: My neural nets sleep less than I do.<br>I'm part code whisperer, part AI explorer, full-time machine learning nerd 🤓<br>I don’t just build models — I make them learn, adapt, and sometimes throw tantrums (aka errors) just like humans.<br>I train more models than I train at the gym 💪<br>I explain machine learning in Tamil when needed 😎<br>If it’s not learning, it’s not fun.<br>
 
 
