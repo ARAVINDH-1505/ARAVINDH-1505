@@ -12,8 +12,13 @@ I'm a machine learning engineer in the making, living on Python, debugging my li
 ![](https://nirzak-streak-stats.vercel.app/?user=ARAVINDH-1505&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARAVINDH-1505&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ARAVINDH-1505&theme=jolly&no-frame=false&no-bg=true&margin-w=4)
+-->
+## 🧩 Extra GitHub Stats
+![GitHub followers](https://img.shields.io/github/followers/ARAVINDH-1505?label=Followers&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/ARAVINDH-1505?affiliations=OWNER&style=for-the-badge)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
