@@ -75,10 +75,6 @@ I explain machine learning in Tamil when needed 😎<br>If it’s not learning, 
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br>
-
 ## 🚀 Highlight Projects
 
 - [Federated ECG Analysis](https://github.com/ARAVINDH-1505/...) – Privacy-preserving ECG classification using federated learning and differential privacy.
