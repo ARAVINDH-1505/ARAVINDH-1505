@@ -23,38 +23,18 @@ I explain machine learning in Tamil when needed 😎<br>If it’s not learning, 
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARAVINDH-1505&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1A1B23&title_color=667eea&icon_color=F093FB&text_color=cdd6f4&border_radius=20&include_all_commits=true" alt="GitHub Stats" height="195"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARAVINDH-1505&theme=tokyonight&hide_border=true&background=1A1B23&stroke=667eea&ring=F093FB&fire=764ba2&currStreakNum=cdd6f4&sideNums=cdd6f4&currStreakLabel=667eea&sideLabels=F093FB&dates=cdd6f4&border_radius=20" alt="GitHub Streak" height="195"/>
 </div>
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARAVINDH-1505&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B23&title_color=667eea&text_color=cdd6f4&border_radius=20&langs_count=10&hide=jupyter%20notebook" alt="Top Languages" height="195"/>
   <img src="https://github-contributor-stats.vercel.app/api?username=ARAVINDH-1505&limit=5&theme=tokyonight&hide_border=true&bg_color=1A1B23&title_color=667eea&text_color=cdd6f4&border_radius=20" alt="Contributions" height="195"/>
-</div>
+</div> -->
 
 <br>
 
-<!-- CONTRIBUTION ACTIVITY GRAPH -->
-<!-- <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARAVINDH-1505&bg_color=1A1B23&color=667eea&line=F093FB&point=764ba2&area=true&area_color=667eea&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph&radius=20" width="98%" alt="Activity Graph"/> -->
-<!-- </div> -->
-
-<!-- <br> -->
-
-<!-- GITHUB TROPHIES -->
-<!-- <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anish300805&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies" width="98%"/>
-</div>
-
-<br> -->
-
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<br> -->
-
-<!-- CODING ACTIVITY & CONTRIBUTION STATS -->
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="40"/>
   Coding Activity
